@@ -3,7 +3,7 @@ remake of lj's methrun
 
 
 
-
+Preview: https://www.youtube.com/watch?v=bGBN0j49DHw
 
 
 	["securitycase"] =        {["name"] = "securitycase",       ["label"] = "Security Case",        ["weight"] = 1000, ["type"] = "item", ["image"] = "securitycase.png", ["unique"] = true, ["useable"] = false, ['shouldClose'] = false, ["combinable"] = nil, ["description"] = "Security case with a timer lock"},
